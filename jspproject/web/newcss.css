@@ -1,0 +1,191 @@
+*{
+    padding:0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body {
+    background-color: #f1f1f1;
+    font-size: 18px;
+}
+#tet{
+	  
+	font-size:15px;
+	border-radius:5px;
+	background-color:#3ed2c0;
+        box-shadow: 0px 0px 5px 0px #222;
+} 
+#adminid{
+	text-align:center;
+ 
+    margin-bottom: 70px;
+    margin-top: 0px;
+    margin-right: 50px;  
+    margin-left: 50px;  
+	font-size: 10px;
+	background-color: grey;
+	padding: auto;
+	border-radius:5px;
+	
+}
+
+	#invi{
+	text-align:center;
+	 margin-right: 30px;
+	/*  background-color:red; */ 
+        margin-left: 30px;
+	padding:10px;
+	/*background-color: #113;*/
+        color:#fff;
+	}
+        
+         #pt
+            {
+                margin-top:0px;
+                margin-bottom: 0px;
+            }
+
+	#ax{
+	text-align:center;
+	background-color:#3ed2c0;
+        margin-left: 450px;
+        margin-right: 450px;
+        width:420px;
+	padding:auto;
+        position:absolute;
+        margin-bottom: 70px;
+        box-shadow: 0px 0px 5px 0px #222;
+        margin-top: 5px;
+        left:10px;
+        margin-left: auto;
+	}
+        
+        #ax1{
+	text-align:center;
+	background-color:#3ed2c0;
+        margin-top: 5px;
+        margin-left: 900px;
+        margin-right: 50px;
+	padding:10px;
+        width:420px;
+        height:80px;
+        box-shadow: 0px 0px 5px 0px #222;
+        position:absolute;
+        margin-bottom: 70px;
+        right:10px;
+        margin-right: auto;
+	}
+        
+        
+        
+	#in{
+	font-size: 20px;
+	text-align:center;	
+	padding:1px;
+	border-radius:5px;
+	text-decoration:none;
+	
+	}
+         #features-tab{
+            box-shadow:0px 0px 5px 0px #222;
+            background-color: #3ed2c0;
+            width:500px;
+            padding: 20px;
+            font-family: sans-serif;
+        }
+        label{
+            color:#fff;
+        }
+        input[name="buy"]{
+            width:120px;
+            padding:10px;
+            border: none;
+            background-color:#3ed2c0;
+            color:#fff;
+            font-family: sans-serif;
+            border-radius:3px;
+        }
+        input[name="add"]{
+            width:120px;
+            padding:10px;
+            border: 2px solid #3ed2c0;
+            border-radius:3px;
+            color:#000;
+            background-color: #fff;
+            font-family: sans-serif;
+            -webkit-transition: 0.2s all ease;
+        }
+        input[name="add"]:hover{
+            background-color: #3ed2c0;
+            color:#fff;
+        }
+            
+         #fe{
+           
+            width:1000px;
+            margin-left: 160px;
+            margin-right: 0px;
+            padding: auto;
+            font-family: sans-serif;
+            
+        }
+       
+        #reg{
+            margin:4px;
+            width:400px;
+            padding:5px;
+            text-align:center;
+        }
+        #pro-img{
+            height: 250px;
+            width: 150px;
+        }
+        #pro-price{
+            
+        }
+        #buy-info{
+            
+        }
+        table{
+            border:1px;
+            width:80%;
+            padding:5px;
+            position:relative;
+            left:0;
+            right: 0;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        td{
+            box-shadow: 0px 0px 5px 0px #222;
+            width:100px;
+            padding:10px;
+            margin-right: 5px;
+        }
+        #cont{
+            border:none;
+            width:100px;
+            padding:10px;
+            background:#113;
+            color:#fff;
+            left:0;
+            right: 0;
+            margin-right: auto;
+            margin-left: auto;
+            position:absolute;
+            
+        }
+        #address{
+            width:300px;
+            height: 30px;
+            padding-left:10px;
+            margin-top: 5px;
+        }
+        #submit{
+            border:none;
+            background:#3ed2c0;
+            color:#fff;
+            padding:10px;
+            width:250px;
+            margin-top: 5px;
+        }
+        
